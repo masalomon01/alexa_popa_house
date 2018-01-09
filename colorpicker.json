@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Salomon",
+          "type": "LIST_OF_SALOMONS"
+        }
+      ],
+      "intent": "MySalomonIsIntent"
+    },
+    {
+      "intent": "WhosMySalomonIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

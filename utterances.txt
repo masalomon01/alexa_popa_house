@@ -1,0 +1,28 @@
+MySalomonIsIntent my favorite Salomon is {Salomon}
+WhosMySalomonIntent who's my favorite Salomon
+WhosMySalomonIntent who is my favorite Salomon
+WhosMySalomonIntent who's my Salomon
+WhosMySalomonIntent who is my Salomon
+WhosMySalomonIntent my Salomon
+WhosMySalomonIntent get my Salomon
+WhosMySalomonIntent get my favorite Salomon
+WhosMySalomonIntent give me my favorite Salomon
+WhosMySalomonIntent give me my Salomon
+WhosMySalomonIntent what my Salomon is
+WhosMySalomonIntent yes
+WhosMySalomonIntent yup
+WhosMySalomonIntent sure
+WhosMySalomonIntent yes please
+RandomSalomonIntent who is funky
+RandomSalomonIntent pick a salomon
+RandomSalomonIntent who will take a shot
+RandomSalomonIntent who will do the dishes
+RandomSalomonIntent who's turn to do the dishes
+RandomSalomonIntent give me a name
+WhatsFirstRuleIntent what's the first rule of fight club
+WhatsFirstRuleIntent what is the first rule of fight club
+WhatsFirstRuleIntent what is the first rule
+AMAZON.HelpIntent help
+AMAZON.CancelIntent thank you
+AMAZON.CancelIntent exit
+AMAZON.CancelIntent that is all
